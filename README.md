@@ -29,3 +29,8 @@ This is a fully functional and minimalistic library management system built with
 - **ShadCN UI** – Accessible and beautifully designed UI components
 - **Framer Motion** – Animations and transitions
 - **Vite** – Fast development build tool
+
+## Live Links
+
+Client : [The Archivist] (https://the-archivist.vercel.app/books)
+Server : [The Archivist Server] (https://the-archivist-server.vercel.app/)
